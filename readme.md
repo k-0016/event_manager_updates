@@ -22,7 +22,7 @@ The project's Docker image has been updated and deployed. Below is the link to t
 
 ## Reflections
 
-Reflecting on this assignment, I've gained valuable insights and skills in both the technical realm and collaborative processes. The challenges presented were multifaceted, ranging from debugging simple issues to complex issues
+Reflecting on this assignment, I've gained valuable insights and skills in both the technical realm and collaborative processes. The challenges presented were multifaceted, ranging from debugging simple issues to complex issues. The process of debugging was complicated at first but as I tested with swagger UI and read code thoroughly it became simpler and easier to go along with.
 
 ### Technical Skills
 
