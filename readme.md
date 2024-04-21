@@ -6,6 +6,8 @@ This repository contains the code for the Event Manager application. It has been
 
 Below are the links to the closed issues that have been resolved in this project:
 
+The issue discussed in the video is solved in code.
+
 - [Issue #1 - Profile_Url and Description were wrong](https://github.com/k-0016/event_manager_updates/pull/2)
 - [Issue #2 - Internal Server Error](https://github.com/k-0016/event_manager_updates/pull/4)
 - [Issue #3 - Profile_URL Not getting updated](https://github.com/k-0016/event_manager_updates/pull/6)
